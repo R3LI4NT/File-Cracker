@@ -19,8 +19,8 @@ Crack password ZIP, RAR and PDF with dictionary.
 ### Requirements
 
 ```
-• zipfile
-• rarfile
-• pikepdf
-• tqdm
+zipfile
+rarfile
+pikepdf
+tqdm
 ```
