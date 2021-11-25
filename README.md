@@ -1,5 +1,5 @@
 # File-Cracker
-Crack password ZIP, RAR and PDF with brute force.
+Crack password ZIP, RAR and PDF with dictionary.
 
 ![1](https://user-images.githubusercontent.com/75953873/143340382-344c3e4c-cec6-4908-806b-ab9bace1cf81.png)
 
