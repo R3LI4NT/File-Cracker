@@ -1,4 +1,4 @@
-![file-cracker](https://user-images.githubusercontent.com/75953873/143357154-c1b275fc-c4ec-4fdd-8a7c-5ec1a8ccb55a.png)
+![file-cracker](https://user-images.githubusercontent.com/75953873/143357868-f7be94aa-c2a1-48f9-a8a8-2c343975f1ca.png)
 
 Crack password ZIP, RAR and PDF with dictionary.
 
